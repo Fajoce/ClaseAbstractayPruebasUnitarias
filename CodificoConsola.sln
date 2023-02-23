@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodificoConsola", "CodificoConsola\CodificoConsola.csproj", "{1ED818B4-62C8-4C38-8C9C-FBDBA2D6AC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestCodifico", "UnitTestCodifico\UnitTestCodifico.csproj", "{418399C5-26CC-404D-8C31-F9CFA4908FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED818B4-62C8-4C38-8C9C-FBDBA2D6AC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED818B4-62C8-4C38-8C9C-FBDBA2D6AC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED818B4-62C8-4C38-8C9C-FBDBA2D6AC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED818B4-62C8-4C38-8C9C-FBDBA2D6AC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{418399C5-26CC-404D-8C31-F9CFA4908FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418399C5-26CC-404D-8C31-F9CFA4908FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418399C5-26CC-404D-8C31-F9CFA4908FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418399C5-26CC-404D-8C31-F9CFA4908FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F5D12E-CF59-4F9E-885C-7263856851E6}
+	EndGlobalSection
+EndGlobal

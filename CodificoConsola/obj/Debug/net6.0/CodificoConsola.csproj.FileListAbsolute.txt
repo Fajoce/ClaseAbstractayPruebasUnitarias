@@ -1,0 +1,15 @@
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\bin\Debug\net6.0\CodificoConsola.exe
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\bin\Debug\net6.0\CodificoConsola.deps.json
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\bin\Debug\net6.0\CodificoConsola.runtimeconfig.json
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\bin\Debug\net6.0\CodificoConsola.dll
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\bin\Debug\net6.0\CodificoConsola.pdb
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\obj\Debug\net6.0\CodificoConsola.csproj.AssemblyReference.cache
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\obj\Debug\net6.0\CodificoConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\obj\Debug\net6.0\CodificoConsola.AssemblyInfoInputs.cache
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\obj\Debug\net6.0\CodificoConsola.AssemblyInfo.cs
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\obj\Debug\net6.0\CodificoConsola.csproj.CoreCompileInputs.cache
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\obj\Debug\net6.0\CodificoConsola.dll
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\obj\Debug\net6.0\refint\CodificoConsola.dll
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\obj\Debug\net6.0\CodificoConsola.pdb
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\obj\Debug\net6.0\CodificoConsola.genruntimeconfig.cache
+C:\Users\Nicoll\Desktop\POO\Codifico\CodificoConsola\CodificoConsola\obj\Debug\net6.0\ref\CodificoConsola.dll
